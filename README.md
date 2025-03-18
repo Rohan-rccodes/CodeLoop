@@ -47,7 +47,7 @@ The **Code-loop** website is a modern, responsive web design project that adapts
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/code-loop.git
+git clone https://github.com/Rohan-rccodes/code-loop.git
 ```
 
 ### **2️⃣ Open the Project**  
