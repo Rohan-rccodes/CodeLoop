@@ -24,6 +24,7 @@ body {
   text-align: center;
   background-color: var(--background-color);
   padding: 0.1rem;
+  scroll-behavior: smooth;
 }
 
 /* .header{
